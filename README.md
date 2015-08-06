@@ -2,7 +2,7 @@
 Mark Zamoyta's Pluralisight Course Code
 
 # Origin
-Built this frontend code following along the pluralsight course video entitled "Building a SPA Framework Using AngularJS".  Completed July, 2015.
+Built this frontend code following along the pluralsight course video entitled "Building a SPA Framework Using AngularJS".  Completed by me July, 2015.
 
 # Tooling
 Used Visual Studio 2015 Community Edition as the IDE (note: M. Zamoyta uses Visual Studio 2013 Community Edition)
