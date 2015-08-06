@@ -8,7 +8,7 @@ Built this frontend code following along the pluralsight course video entitled "
 Used Visual Studio 2015 Community Edition as the IDE (note: M. Zamoyta uses Visual Studio 2013 Community Edition)
 
 # Other Notes
-Built the code on branch entitled 'spaFramework'.  The master branch contains only this READ.me file.
+Built the code on branch entitled 'spaFramework'.  The master branch contains only this README.md file.
 
 The course builds three widget types, but because of the similarities (just some content and css differences) I built only the temperature widget.  
 
