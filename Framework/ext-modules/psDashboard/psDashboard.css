@@ -1,0 +1,106 @@
+﻿
+ps-dashboard {
+    margin: 0;
+    width: 100%;
+}
+
+.gridster .gridster-item {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    background: white;
+}
+/*
+.ps-widget-header {
+    position: relative;
+    color: white;
+    background-color: #444;
+    font-size: 18px;
+    border-bottom: 1px solid black;
+    min-height: 30px;
+    padding: 8px;
+    padding-top: 4px;
+    padding-bottom: 2px;
+}
+
+.ps-widget-header-buttons {
+    position: absolute;
+    top: 0;
+    right:0;
+}
+
+.ps-widget-header-buttons .btn {
+    margin: 4px;
+    margin-top: 3px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+*/
+
+.ps-dashboard-header {
+    font-size: 20px;
+    border-bottom: 1px solid #444;
+    color: white;
+    background-color: #777;
+    margin: -20px;
+    margin-bottom: 20px;
+    min-height: 50px;
+    padding: 9px;
+    padding-left: 20px;
+}
+
+.ps-dashboard-controls {
+    float: right;
+}
+
+.ps-widget-menu-area { /* two changes from video to maintain dropdown bar icon when gridster-model class kicks in */
+    float: right;  /* added float right */
+    position: relative; /* changed from absolute */
+    top: 0;
+    right: 8px;
+    font-size: 22px;
+
+}
+
+.ps-widget-menu-area .dropdown-menu {
+    min-width: 48px;
+    left: -20px;
+    padding-left: 15px;
+}
+
+.ps-widget-menu-area a {
+    color: white;
+}
+
+.ps-widget-menu-area i {
+    cursor: pointer;
+}
+
+.dropdown-backdrop {
+    position: static;
+}
+
+/*
+.ps-widget-menu-area {
+    position: absolute;
+    top: 0;
+    right: 8px;
+    font-size: 22px;
+}
+
+.ps-widget-menu-area .dropdown-menu {
+    min-width: 48px;
+    left: -20px;
+    padding-left: 15px;
+}
+
+.ps-widget-menu-area a {
+    color: white;
+}
+
+.ps-widget-menu-area i {
+    cursor: pointer;
+}
+
+.dropdown-backdrop {
+    position: static;
+}
+*/
